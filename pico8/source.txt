@@ -1,0 +1,5 @@
+super mario bros. demake in pico-8
+author: sascha schmidt (sascha217)
+version: 2017-03-12
+license: cc4-by-nc-sa
+url: https://www.lexaloffle.com/bbs/?tid=28942
